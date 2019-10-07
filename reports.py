@@ -139,7 +139,7 @@ def get_genres(file_name):      # bonus question 2.
 
 
 
-#created a function to calculate maximum from a list. Reason for this: line 157. For bonus question 3.
+#created a function to calculate maximum from a list. Reason for this: line 180. For bonus question 3.
 def MyMaximum(list):
     max = 0
     for i in list:
