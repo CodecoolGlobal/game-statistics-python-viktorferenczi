@@ -10,15 +10,11 @@ IMPORTANT:
 
 game_stat.txt: Every line in the file contains the following information about a game:
 
--title
-
--total copies sold (million)
-
--release date
-
--genre
-
--publisher
+title,
+total copies sold (million),
+release date,
+genre,
+publisher
 
 
 READ ME!
