@@ -1,4 +1,4 @@
-Task:
+TASK:
 
 Writing reports that answer Judy's questions. 
 Every report needs to be implemented as a function so every function is related to a question. 
@@ -6,8 +6,7 @@ For every report function I wrote a printer function also.
 The printer function has to print the return value(s) of the report function.
 
 
-
-Important:
+IMPORTANT:
 
 game_stat.txt: Every line in the file contains the following information about a game:
 
@@ -22,10 +21,7 @@ game_stat.txt: Every line in the file contains the following information about a
 -publisher
 
 
-
-
 READ ME!
-
 
 
 reports.py: Contains only the report functions.
@@ -36,13 +32,9 @@ export.py: Printing the output of the reports, and putting the outputs in a text
 
 
 
-
-
 RUNNING THE PROGRAM:
 
 Judy will run printing.py to get the answers she wants. Run export.py if she also needs the answers in a text file.
-
-
 
 
 The part2 is the same with different questions!
